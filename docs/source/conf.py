@@ -96,3 +96,12 @@ html_static_path = ["_static"]
 
 # This specifies any additional css files that will override the theme's
 html_css_files = ["custom.css"]
+
+
+# -- Options for internationalization -------------------------------------------------
+
+# Set the destination directory of the localized po files
+locale_dirs = ['locale/']
+
+# Splits the text in more pot files.
+gettext_compact = False
