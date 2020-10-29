@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The Manim Community Dev Team
+# This file is distributed under the same license as the Manim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Samy Avrillon <qqnavrillon@netcourrier.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manim\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 23:21+0100\n"
+"PO-Revision-Date: 2020-10-29 23:12+0000\n"
+"Last-Translator: Samy Avrillon <qqnavrillon@netcourrier.com>, 2020\n"
+"Language-Team: French (https://www.transifex.com/manim-community-1/teams/114358/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../source/examples/animations.rst:2
+msgid "Animations"
+msgstr "Animations"
+
+#: ../../source/examples/animations.rst:6
+msgid "Transformations"
+msgstr "Transformations"
+
+#: ../../source/examples/animations.rst:8
+msgid "Some more examples will come soon here!"
+msgstr "De nouveaux exemples seront bientôt ajoutés !"
+
+#: ../../source/examples/animations.rst:11
+msgid "Updaters"
+msgstr "Les «Updaters»"
