@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The Manim Community Dev Team
+# This file is distributed under the same license as the Manim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manim \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 23:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/reference/manim.utils.space_ops.rst:2
+msgid "manim.utils.space\\_ops"
+msgstr ""
+
+#: ../../../manim/utils/space_ops.py:docstring of manim.utils.space_ops:1
+msgid "Utility functions for two- and three-dimensional vectors."
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:15
+msgid "Functions"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`R3_to_complex <manim.utils.space_ops.R3_to_complex>`\\ \\(point\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`angle_axis_from_quaternion <manim.utils.space_ops.angle_axis_from_quaternion>`\\ \\(quaternion\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`angle_between <manim.utils.space_ops.angle_between>`\\ \\(v1\\, v2\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`angle_between_vectors <manim.utils.space_ops.angle_between_vectors>`\\ \\(v1\\, v2\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid "Returns the angle between two 3D vectors."
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`angle_of_vector <manim.utils.space_ops.angle_of_vector>`\\ \\(vector\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid "Returns polar coordinate theta when vector is project on xy plane"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`center_of_mass <manim.utils.space_ops.center_of_mass>`\\ \\(points\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`compass_directions <manim.utils.space_ops.compass_directions>`\\ \\(\\[n\\, start\\_vect\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`complex_func_to_R3_func <manim.utils.space_ops.complex_func_to_R3_func>`\\ \\(complex\\_func\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`complex_to_R3 <manim.utils.space_ops.complex_to_R3>`\\ \\(complex\\_num\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`cross <manim.utils.space_ops.cross>`\\ \\(v1\\, v2\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`get_norm <manim.utils.space_ops.get_norm>`\\ \\(vect\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`get_unit_normal <manim.utils.space_ops.get_unit_normal>`\\ \\(v1\\, v2\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`get_winding_number <manim.utils.space_ops.get_winding_number>`\\ \\(points\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`line_intersection <manim.utils.space_ops.line_intersection>`\\ \\(line1\\, line2\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid "return intersection point of two lines, each defined with a pair of vectors determining the end points"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`midpoint <manim.utils.space_ops.midpoint>`\\ \\(point1\\, point2\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`normalize <manim.utils.space_ops.normalize>`\\ \\(vect\\[\\, fall\\_back\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`project_along_vector <manim.utils.space_ops.project_along_vector>`\\ \\(point\\, vector\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`quaternion_conjugate <manim.utils.space_ops.quaternion_conjugate>`\\ \\(quaternion\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`quaternion_from_angle_axis <manim.utils.space_ops.quaternion_from_angle_axis>`\\ \\(angle\\, axis\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`quaternion_mult <manim.utils.space_ops.quaternion_mult>`\\ \\(q1\\, q2\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`rotate_vector <manim.utils.space_ops.rotate_vector>`\\ \\(vector\\, angle\\[\\, axis\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`rotation_about_z <manim.utils.space_ops.rotation_about_z>`\\ \\(angle\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`rotation_matrix <manim.utils.space_ops.rotation_matrix>`\\ \\(angle\\, axis\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid "Rotation in R^3 about a specified axis of rotation."
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`thick_diagonal <manim.utils.space_ops.thick_diagonal>`\\ \\(dim\\[\\, thickness\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid ":obj:`z_to_vector <manim.utils.space_ops.z_to_vector>`\\ \\(vector\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.space_ops.rst:42:<autosummary>:1
+msgid "Returns some matrix in SO(3) which takes the z-axis to the (normalized) vector provided as an argument"
+msgstr ""

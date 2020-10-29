@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The Manim Community Dev Team
+# This file is distributed under the same license as the Manim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manim \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 23:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/reference/manim.mobject.vector_field.rst:2
+msgid "manim.mobject.vector\\_field"
+msgstr ""
+
+#: ../../../manim/mobject/vector_field.py:docstring of manim.mobject.vector_field:1
+msgid "Mobjects representing vector fields."
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:15
+msgid "Functions"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:28:<autosummary>:1
+msgid ":obj:`get_color_field_image_file <manim.mobject.vector_field.get_color_field_image_file>`\\ \\(scalar\\_func\\[\\, ...\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:28:<autosummary>:1
+msgid ":obj:`get_colored_background_image <manim.mobject.vector_field.get_colored_background_image>`\\ \\(...\\)"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:28:<autosummary>:1
+msgid ":obj:`get_rgb_gradient_function <manim.mobject.vector_field.get_rgb_gradient_function>`\\ \\(\\[min\\_value\\, ...\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:28:<autosummary>:1
+msgid ":obj:`move_along_vector_field <manim.mobject.vector_field.move_along_vector_field>`\\ \\(mobject\\, func\\)"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:28:<autosummary>:1
+msgid ":obj:`move_points_along_vector_field <manim.mobject.vector_field.move_points_along_vector_field>`\\ \\(mobject\\, func\\)"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:28:<autosummary>:1
+msgid ":obj:`move_submobjects_along_vector_field <manim.mobject.vector_field.move_submobjects_along_vector_field>`\\ \\(mobject\\, ...\\)"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:30
+msgid "Classes"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:41:<autosummary>:1
+msgid ":obj:`AnimatedStreamLines <manim.mobject.vector_field.AnimatedStreamLines>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:41:<autosummary>:1
+msgid ":obj:`ShowPassingFlashWithThinningStrokeWidth <manim.mobject.vector_field.ShowPassingFlashWithThinningStrokeWidth>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:41:<autosummary>:1
+msgid ":obj:`StreamLines <manim.mobject.vector_field.StreamLines>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.vector_field.rst:41:<autosummary>:1
+msgid ":obj:`VectorField <manim.mobject.vector_field.VectorField>`"
+msgstr ""

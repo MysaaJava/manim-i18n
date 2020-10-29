@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The Manim Community Dev Team
+# This file is distributed under the same license as the Manim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manim \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 23:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:2
+msgid "manim.mobject.svg.drawings"
+msgstr ""
+
+#: ../../../manim/mobject/svg/drawings.py:docstring of manim.mobject.svg.drawings:1
+msgid "Mobjects representing predefined SVG drawings."
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:19
+msgid "Classes"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`AoPSLogo <manim.mobject.svg.drawings.AoPSLogo>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`BitcoinLogo <manim.mobject.svg.drawings.BitcoinLogo>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`Bubble <manim.mobject.svg.drawings.Bubble>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`Car <manim.mobject.svg.drawings.Car>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`Clock <manim.mobject.svg.drawings.Clock>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`ClockPassesTime <manim.mobject.svg.drawings.ClockPassesTime>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`DeckOfCards <manim.mobject.svg.drawings.DeckOfCards>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`DoubleSpeechBubble <manim.mobject.svg.drawings.DoubleSpeechBubble>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`Guitar <manim.mobject.svg.drawings.Guitar>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`Headphones <manim.mobject.svg.drawings.Headphones>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`Laptop <manim.mobject.svg.drawings.Laptop>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`Lightbulb <manim.mobject.svg.drawings.Lightbulb>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`Logo <manim.mobject.svg.drawings.Logo>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`PartyHat <manim.mobject.svg.drawings.PartyHat>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`PatreonLogo <manim.mobject.svg.drawings.PatreonLogo>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`PlayingCard <manim.mobject.svg.drawings.PlayingCard>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`SpeechBubble <manim.mobject.svg.drawings.SpeechBubble>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`Speedometer <manim.mobject.svg.drawings.Speedometer>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`SuitSymbol <manim.mobject.svg.drawings.SuitSymbol>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`ThoughtBubble <manim.mobject.svg.drawings.ThoughtBubble>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`VectorizedEarth <manim.mobject.svg.drawings.VectorizedEarth>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`VideoIcon <manim.mobject.svg.drawings.VideoIcon>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.rst:68:<autosummary>:1
+msgid ":obj:`VideoSeries <manim.mobject.svg.drawings.VideoSeries>`"
+msgstr ""

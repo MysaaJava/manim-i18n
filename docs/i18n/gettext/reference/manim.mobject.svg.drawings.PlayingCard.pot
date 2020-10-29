@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The Manim Community Dev Team
+# This file is distributed under the same license as the Manim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manim \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 23:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:2
+msgid "manim.mobject.svg.drawings.PlayingCard"
+msgstr ""
+
+#: ../../../manim/mobject/svg/drawings.py:docstring of manim.mobject.svg.drawings.PlayingCard:1
+msgid "Bases: :class:`manim.mobject.types.vectorized_mobject.VGroup`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:12
+msgid "Methods"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:25:<autosummary>:1
+msgid ":obj:`generate_points <manim.mobject.svg.drawings.PlayingCard.generate_points>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:25:<autosummary>:1
+msgid ":obj:`get_ace_design <manim.mobject.svg.drawings.PlayingCard.get_ace_design>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:25:<autosummary>:1
+msgid ":obj:`get_corner_numbers <manim.mobject.svg.drawings.PlayingCard.get_corner_numbers>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:25:<autosummary>:1
+msgid ":obj:`get_design <manim.mobject.svg.drawings.PlayingCard.get_design>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:25:<autosummary>:1
+msgid ":obj:`get_face_card_design <manim.mobject.svg.drawings.PlayingCard.get_face_card_design>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:25:<autosummary>:1
+msgid ":obj:`get_number_design <manim.mobject.svg.drawings.PlayingCard.get_number_design>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:25:<autosummary>:1
+msgid ":obj:`get_symbol <manim.mobject.svg.drawings.PlayingCard.get_symbol>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:25:<autosummary>:1
+msgid ":obj:`get_value <manim.mobject.svg.drawings.PlayingCard.get_value>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:27
+msgid "Attributes"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.PlayingCard.rst:30:<autosummary>:1
+msgid ":obj:`CONFIG <manim.mobject.svg.drawings.PlayingCard.CONFIG>`\\"
+msgstr ""
