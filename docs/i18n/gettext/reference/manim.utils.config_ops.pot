@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The Manim Community Dev Team
+# This file is distributed under the same license as the Manim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manim \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 23:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/reference/manim.utils.config_ops.rst:2
+msgid "manim.utils.config\\_ops"
+msgstr ""
+
+#: ../../../manim/utils/config_ops.py:docstring of manim.utils.config_ops:1
+msgid "Utilities required by manim's CONFIG attributes."
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:15
+msgid "Functions"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:28:<autosummary>:1
+msgid ":obj:`digest_config <manim.utils.config_ops.digest_config>`\\ \\(obj\\, kwargs\\[\\, caller\\_locals\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:28:<autosummary>:1
+msgid "Sets init args and CONFIG values as local variables"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:28:<autosummary>:1
+msgid ":obj:`digest_locals <manim.utils.config_ops.digest_locals>`\\ \\(obj\\[\\, keys\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:28:<autosummary>:1
+msgid ":obj:`filtered_locals <manim.utils.config_ops.filtered_locals>`\\ \\(caller\\_locals\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:28:<autosummary>:1
+msgid ":obj:`get_all_descendent_classes <manim.utils.config_ops.get_all_descendent_classes>`\\ \\(Class\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:28:<autosummary>:1
+msgid ":obj:`merge_dicts_recursively <manim.utils.config_ops.merge_dicts_recursively>`\\ \\(\\*dicts\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:28:<autosummary>:1
+msgid "Creates a dict whose keyset is the union of all the input dictionaries."
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:28:<autosummary>:1
+msgid ":obj:`soft_dict_update <manim.utils.config_ops.soft_dict_update>`\\ \\(d1\\, d2\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:28:<autosummary>:1
+msgid "Adds key values pairs of d2 to d1 only when d1 doesn't already have that key"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:30
+msgid "Classes"
+msgstr ""
+
+#: ../../source/reference/manim.utils.config_ops.rst:35:<autosummary>:1
+msgid ":obj:`DictAsObject <manim.utils.config_ops.DictAsObject>`"
+msgstr ""

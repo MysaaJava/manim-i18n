@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The Manim Community Dev Team
+# This file is distributed under the same license as the Manim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manim \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 23:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/reference/manim.animation.specialized.rst:2
+msgid "manim.animation.specialized"
+msgstr ""
+
+#: ../../../manim/animation/specialized.py:docstring of manim.animation.specialized:1
+msgid "Animations for highly specialiced applications."
+msgstr ""
+
+#: ../../source/reference/manim.animation.specialized.rst:19
+msgid "Classes"
+msgstr ""
+
+#: ../../source/reference/manim.animation.specialized.rst:26:<autosummary>:1
+msgid ":obj:`Broadcast <manim.animation.specialized.Broadcast>`"
+msgstr ""
+
+#: ../../source/reference/manim.animation.specialized.rst:26:<autosummary>:1
+msgid ":obj:`MoveCar <manim.animation.specialized.MoveCar>`"
+msgstr ""

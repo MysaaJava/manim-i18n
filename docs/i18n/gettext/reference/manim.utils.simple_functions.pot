@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The Manim Community Dev Team
+# This file is distributed under the same license as the Manim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manim \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 23:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/reference/manim.utils.simple_functions.rst:2
+msgid "manim.utils.simple\\_functions"
+msgstr ""
+
+#: ../../../manim/utils/simple_functions.py:docstring of manim.utils.simple_functions:1
+msgid "A collection of simple functions."
+msgstr ""
+
+#: ../../source/reference/manim.utils.simple_functions.rst:15
+msgid "Functions"
+msgstr ""
+
+#: ../../source/reference/manim.utils.simple_functions.rst:25:<autosummary>:1
+msgid ":obj:`binary_search <manim.utils.simple_functions.binary_search>`\\ \\(function\\, target\\, lower\\_bound\\, ...\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.simple_functions.rst:25:<autosummary>:1
+msgid ":obj:`choose <manim.utils.simple_functions.choose>`\\ \\(n\\, r\\[\\, use\\_cache\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.simple_functions.rst:25:<autosummary>:1
+msgid ":obj:`choose_using_cache <manim.utils.simple_functions.choose_using_cache>`\\ \\(n\\, r\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.simple_functions.rst:25:<autosummary>:1
+msgid ":obj:`clip_in_place <manim.utils.simple_functions.clip_in_place>`\\ \\(array\\[\\, min\\_val\\, max\\_val\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.simple_functions.rst:25:<autosummary>:1
+msgid ":obj:`fdiv <manim.utils.simple_functions.fdiv>`\\ \\(a\\, b\\[\\, zero\\_over\\_zero\\_value\\]\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.simple_functions.rst:25:<autosummary>:1
+msgid ":obj:`get_num_args <manim.utils.simple_functions.get_num_args>`\\ \\(function\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.simple_functions.rst:25:<autosummary>:1
+msgid ":obj:`get_parameters <manim.utils.simple_functions.get_parameters>`\\ \\(function\\)"
+msgstr ""
+
+#: ../../source/reference/manim.utils.simple_functions.rst:25:<autosummary>:1
+msgid ":obj:`sigmoid <manim.utils.simple_functions.sigmoid>`\\ \\(x\\)"
+msgstr ""

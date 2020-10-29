@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, The Manim Community Dev Team
+# This file is distributed under the same license as the Manim package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manim \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 23:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:2
+msgid "manim.mobject.svg.drawings.Bubble"
+msgstr ""
+
+#: ../../../manim/mobject/svg/drawings.py:docstring of manim.mobject.svg.drawings.Bubble:1
+msgid "Bases: :class:`manim.mobject.svg.svg_mobject.SVGMobject`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:12
+msgid "Methods"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`add_content <manim.mobject.svg.drawings.Bubble.add_content>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`clear <manim.mobject.svg.drawings.Bubble.clear>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`flip <manim.mobject.svg.drawings.Bubble.flip>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`get_bubble_center <manim.mobject.svg.drawings.Bubble.get_bubble_center>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`get_tip <manim.mobject.svg.drawings.Bubble.get_tip>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`move_tip_to <manim.mobject.svg.drawings.Bubble.move_tip_to>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`pin_to <manim.mobject.svg.drawings.Bubble.pin_to>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`position_mobject_inside <manim.mobject.svg.drawings.Bubble.position_mobject_inside>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`resize_to_content <manim.mobject.svg.drawings.Bubble.resize_to_content>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:27:<autosummary>:1
+msgid ":obj:`write <manim.mobject.svg.drawings.Bubble.write>`"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:29
+msgid "Attributes"
+msgstr ""
+
+#: ../../source/reference/manim.mobject.svg.drawings.Bubble.rst:32:<autosummary>:1
+msgid ":obj:`CONFIG <manim.mobject.svg.drawings.Bubble.CONFIG>`\\"
+msgstr ""
