@@ -101,7 +101,7 @@ html_css_files = ["custom.css"]
 # -- Options for internationalization -------------------------------------------------
 
 # Set the destination directory of the localized po files
-locale_dirs = ['locale/']
+locale_dirs = ["locale/"]
 
 # Splits the text in more pot files.
 gettext_compact = False
